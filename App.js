@@ -47,7 +47,7 @@ export default function App() {
                 }}
               />
               <Text style={styles.emptyTitle}>Empty Box</Text>
-            </KeyboardAvoidingView>
+            </KeyboardAvoidingView >
           )}
 
           {taskItems.map((item, index) => {
