@@ -41,7 +41,7 @@ export default function App() {
               style={styles.emptyBoxShow}
             >
               <Image
-                style={styles.tinyLogo}~
+                style={styles.tinyLogo}
                 source={{
                   uri: "https://ez.dvtst.com/img/empty.png",
                 }}
